@@ -174,7 +174,6 @@ textarea {
 			align-items: flex-center;
 			justify-content: flex-end;
 			flex-direction: column;
-			// border: 1px solid #123;
 			padding: 10px 20px;
 			&-desc {
 				margin: 0 0 0 10px;
@@ -243,6 +242,10 @@ textarea {
 			text-align: center;
 			color: #222;
 			text-transform: uppercase;
+			&:hover {
+				background-color: #222;
+				color: #FFF;
+			}
 		}
 	}
 }

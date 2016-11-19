@@ -1031,6 +1031,11 @@ select {
   text-transform: uppercase;
 }
 
+.ba-our-works__more-btn a:hover {
+  background-color: #222;
+  color: #FFF;
+}
+
 .ba-get-in-tought {
   text-align: center;
   margin-top: 70px;
